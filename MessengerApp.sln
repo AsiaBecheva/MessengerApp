@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessengerApp", "MessengerApp\MessengerApp.csproj", "{F5EE9F38-8D2A-47C0-918A-544306945CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EE9F38-8D2A-47C0-918A-544306945CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EE9F38-8D2A-47C0-918A-544306945CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EE9F38-8D2A-47C0-918A-544306945CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EE9F38-8D2A-47C0-918A-544306945CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C7E0000-F3CB-4B8C-94B4-39387EDA2CE2}
+	EndGlobalSection
+EndGlobal
